@@ -67,4 +67,3 @@ _At this moment I'm trying GraphQL with ASP.net Core, and thinking of testing ou
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chimexGitHub)](https://github.com/chimexGitHub)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimexGitHub&layout=compact&langs_count=10)](https://github.com/chimexGitHub)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chimexGitHub.visitor-badge)
